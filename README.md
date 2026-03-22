@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Platform-drivershield.io-f0b429?style=for-the-badge)](https://drivershield.io)
 [![API](https://img.shields.io/badge/API-Documentation-3b82f6?style=for-the-badge)](https://drivershield.io/?r=api)
-[![Status](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge)]()
+[![ExampleScan](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge)]([https://img.shields.io](https://drivershield.io/DS-B41E612383F5/58a74dceb2022cd8a358b92acd1b48a5e01c524c3b0195d7033e4bd55eff4495))
 
 ---
 
@@ -21,6 +21,9 @@ Detect vulnerabilities, malware patterns, rootkit indicators, and BYOVD (Bring Y
 ---
 
 ## What is DriverShield?
+
+<img width="1401" height="863" alt="image" src="https://github.com/user-attachments/assets/a023cca8-bee9-42c9-8c85-f9f41a065d7b" />
+
 
 DriverShield is a cloud-based analysis platform purpose-built for Windows kernel-mode drivers. Upload any `.sys` file and receive a comprehensive threat assessment covering code signing validation, dangerous API usage, IOCTL attack surfaces, rootkit behavior detection, known vulnerability matching, and behavioral risk scoring.
 
