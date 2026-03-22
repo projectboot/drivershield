@@ -124,17 +124,6 @@ Show the analysis status of any driver on your website or README:
 
 ---
 
-## Technology
-
-| Component | Stack |
-|:----------|:------|
-| Analysis Engine | Python — pefile, yara-python, capstone, cryptography, angr |
-| Backend | PHP 8.x — zero-dependency, JSON file storage |
-| Frontend | Vanilla JavaScript SPA |
-| Deployment | Single-file architecture — LAMP/LEMP compatible |
-
----
-
 ## Contact & Sponsorship
 
 - **Platform**: [drivershield.io](https://drivershield.io)
