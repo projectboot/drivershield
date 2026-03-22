@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Platform-drivershield.io-f0b429?style=for-the-badge)](https://drivershield.io)
 [![API](https://img.shields.io/badge/API-Documentation-3b82f6?style=for-the-badge)](https://drivershield.io/?r=api)
-[![ExampleScan](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge)]([https://img.shields.io](https://drivershield.io/DS-B41E612383F5/58a74dceb2022cd8a358b92acd1b48a5e01c524c3b0195d7033e4bd55eff4495))
+[![Status](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge)]([https://img.shields.io]())
 
 ---
 
@@ -130,6 +130,7 @@ Show the analysis status of any driver on your website or README:
 ## Contact & Sponsorship
 
 - **Platform**: [drivershield.io](https://drivershield.io)
+- **Example Scan Results**: [drivershield.io]([https://drivershield.io](https://drivershield.io/DS-B41E612383F5/58a74dceb2022cd8a358b92acd1b48a5e01c524c3b0195d7033e4bd55eff4495))
 - **API Docs**: [drivershield.io/api](https://drivershield.io/?r=api)
 - **Contact**: [drivershield.io/contact](https://drivershield.io/?r=contact)
 - **Sponsor**: [drivershield.io/sponsor](https://drivershield.io/?r=sponsor)
